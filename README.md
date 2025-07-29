@@ -30,8 +30,8 @@ seguem abaixo.
 ## 💻 Tecnologias utilizadas no projeto
 
 - [ChatGPT](https://chat.openai.com/) 
-- [MidJourney](https://www.midjourney.com/app/)
-- [PowerPoint](https://www.microsoft.com/en/microsoft-365/powerpoint)
+- [SeaArt]([https://www.midjourney.com/app/](https://www.seaart.ai/pt))
+- [Figma](https://www.figma.com/)
 
 ## 🧠 Prompts
 
@@ -44,7 +44,7 @@ ChatGPT：
 | conteúdo | Faça um texto para ebook , com foco em CSS, listando os principais seletores CSS com exemplos em código {REGRAS} Explique sempre de uma maneira simples Deixe o texto enxuto, Sempre traga exemplos de código em contextos reais , sempre deixe um título sugestivo por tópico |
 
 
-Midjourney：
+SeaArt：
 
 |  Ação  | prompt                                                                                 |
 | :----: | -------------------------------------------------------------------------------------- |
@@ -53,7 +53,7 @@ Midjourney：
 ## ✨ Features
 
 - Conteúdo gerado via ChatGPT
-- Imagens geradas via MidJourney
+- Imagens geradas via SeaArt
 
 ## 📚 Materiais
 
@@ -62,7 +62,7 @@ Midjourney：
 
 ## 🛠️ Instruções de execução
 
-Utilize os prompts acima nas ferramentas sugeridas para gerar o material base e utilize uma ferramenta de edição de documentos como power point, libreoffice , indesign para diagramação.
+Utilize os prompts acima nas ferramentas sugeridas para gerar o material base e utilize uma ferramenta de edição de documentos como figma, libreoffice , indesign para diagramação.
 
 ## 👨‍💻 Expert
 
@@ -73,14 +73,13 @@ Utilize os prompts acima nas ferramentas sugeridas para gerar o material base e 
       width=80 
       src="https://avatars.githubusercontent.com/u/37452836?v=4"
     />
-    <p>&nbsp&nbsp&nbspFelipe Aguiar<br>
+    <p>&nbsp&nbsp&nbspGabriel Dantas<br>
     &nbsp&nbsp&nbsp
-    <a href="https://github.com/felipeAguiarCode">
+    <a href="https://github.com/GabrielDantas-99">
     GitHub</a>&nbsp;|&nbsp;
-    <a href="www.linkedin.com/in/
-felipe-exe">LinkedIn</a>
+    <a href="www.linkedin.com/in/gabriel-felipe-dantas">LinkedIn</a>
 &nbsp;|&nbsp;
-    <a href="https://www.instagram.com/felipeaguiar.exe/">
+    <a href="https://www.instagram.com/_gabrielfdantas/">
     Instagram</a>
 &nbsp;|&nbsp;</p>
 </p>
@@ -89,4 +88,4 @@ felipe-exe">LinkedIn</a>
 
 ---
 
-⌨️ com 💜 por [Felipe Aguiar](https://github.com/felipeAguiarCode)
+⌨️ com 💜 por [Gabriel Dantas](https://github.com/GabrielDantas-99)
